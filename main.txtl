@@ -1,0 +1,16 @@
+This is a sample TextLink page! (veiwable in TextLink 0.1)
+.link http://example.com Example Link!
+.link http://github.com/LeoMehraban/textlinksite/index.txtl More Info on Textlink
+
+It's all just text and links
+Like here's a link to 100 digits of pi
+.link http://github.com/LeoMehraban/textlink-hosting/pi.txtl Pi
+
+Download TextLink at http://github.com/LeoMehraban/TextLink. This is not a TextLink link becuse TextLink can't show html pages, but go check it out
+Run textlink from your terminal.
+In the TextLink folder, run "node index.js"
+Make sure you have Node.JS installed before running this command.
+Install nodeJS here: https://nodejs.org/en/. (Not a TextLink link)
+TextLink is over a year old, and I'm still the only person who knows how to use it, so that's sad
+
+Goodbye.
