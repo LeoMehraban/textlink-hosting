@@ -1,10 +1,10 @@
 This is a sample TextLink page! (veiwable in TextLink 0.1)
 .link http://example.com Example Link!
-.link http://github.com/LeoMehraban/textlinksite/index.txtl More Info on Textlink
+.link http://leomehraban.github.io/textlinksite/index.txtl More Info on Textlink
 
 It's all just text and links
 Like here's a link to 100 digits of pi
-.link http://github.com/LeoMehraban/textlink-hosting/pi.txtl Pi
+.link http://leomehraban.github.io/pi.txtl Pi
 
 Download TextLink at http://github.com/LeoMehraban/TextLink. This is not a TextLink link becuse TextLink can't show html pages, but go check it out
 Run textlink from your terminal.
