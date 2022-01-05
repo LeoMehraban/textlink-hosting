@@ -6,7 +6,7 @@ It's all just text and links
 Like here's a link to 100 digits of pi
 .link http://leomehraban.github.io/pi.txtl Pi
 
-Download TextLink at http://github.com/LeoMehraban/TextLink. This is not a TextLink link becuse TextLink can't show html pages, but go check it out
+Download TextLink at http://github.com/LeoMehraban/textlink-hosting/TextLink. This is not a TextLink link becuse TextLink can't show html pages, but go check it out
 Run textlink from your terminal.
 In the TextLink folder, run "node index.js"
 Make sure you have Node.JS installed before running this command.
